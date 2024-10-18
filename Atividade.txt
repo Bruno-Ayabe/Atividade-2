@@ -1,3 +1,8 @@
 Oi, tudo bão ?
+<<<<<<< HEAD
 Beleza ? 
 Eu estudo na Unifil !!
+=======
+Olá, estas bem ?
+Não estudo na Unifil !!
+>>>>>>> DEV
